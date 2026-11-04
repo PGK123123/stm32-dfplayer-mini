@@ -1,0 +1,19 @@
+# Compiled object files and binaries
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+
+# STM32CubeIDE / Eclipse internal settings
+.metadata/
+.settings/
+*.launch
+
+# OS specific files
+.DS_Store
+Thumbs.db
